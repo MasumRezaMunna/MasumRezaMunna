@@ -3,6 +3,8 @@
 
 🔭 I’m currently working on React.js,Next.js,Node.js,Express.js,MongoDB, Mongoose<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB)
 
+---
+[![](https://komarev.com/ghpvc/?username=MasumRezaMunna&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/masum.reza.munna.2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MasumRezaMunna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masumrezamunna2005@gmail.com) 
@@ -23,7 +25,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MasumRezaMunna&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=MasumRezaMunna&icon=0&color=brightgreen)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
